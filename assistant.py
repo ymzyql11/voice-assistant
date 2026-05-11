@@ -10,7 +10,7 @@ import sherpa_onnx
 from openai import AsyncOpenAI
 
 # ================= 核心配置 =================
-QWEN_API_KEY = "sk-3aa12f09ba6d4a98a89f16aa36875e9e"
+QWEN_API_KEY = "API"
 QWEN_BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1"
 ASR_TOKENS = "./model/tokens.txt"
 ASR_ENCODER = "./model/encoder.int8.onnx"
